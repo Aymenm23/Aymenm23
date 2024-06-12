@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aymen Mohamed</h1>
 <h3 align="center">I'm a passionate Data Scientist with a knack for weaving captivating stories from complex data sets, leveraging a diverse skill set and a commitment to innovation to empower informed decision-making and drive growth.</h3>
 
-- 🔭 I’m currently working on [BrainStation Capstone](https://github.com/Aymenm23/Capstone_project)
+- 🔭 I’m currently working on [BrainStation Capstone](https://github.com/Aymenm23/Google_Capstone)
 
 - 🌱 I’m currently learning **Generative AI, XGBoost, AWS, AZURE and GCS.**
 
